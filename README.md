@@ -26,6 +26,7 @@ To Do
 
 ## 简历制作
 
+- [ResumeAI](https://withresumeai.com/) — 免费 ATS 简历检测（匿名 3 次/天，免费账号 10 次/天）+ 开源 [State of ATS 2026](https://github.com/Kayvan-Zahiri/state-of-ats-2026)（738 雇主、704 门户核验；Workday 37.9%）
 - [最新上线的简历评估工具：即刻简历](https://github.com/wuyoueeee/CS-Job-Guide/blob/master/docs/%E7%AE%80%E5%8E%86/%E5%8D%B3%E5%88%BB%E7%AE%80%E5%8E%86.md)⭐⭐⭐
 - [一份真实的的互联网大厂简历](https://github.com/wuyoueeee/CS-Job-Guide/blob/master/docs/%E7%AE%80%E5%8E%86/%E4%B8%80%E4%BB%BD%E7%9C%9F%E5%AE%9E%E7%9A%84%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E5%8E%82%E7%AE%80%E5%8E%86.md) 
 - [简历的重要性](https://github.com/wuyoueeee/CS_Job_Guide/blob/master/docs/%E7%AE%80%E5%8E%86/%E7%AE%80%E5%8E%86%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7.md) 
